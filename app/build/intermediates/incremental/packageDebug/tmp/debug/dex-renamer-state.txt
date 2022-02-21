@@ -1,0 +1,4 @@
+#Mon Feb 21 00:11:43 PST 2022
+base.0=/Users/selenali/Desktop/CS_371/PigGameStarter-master/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
